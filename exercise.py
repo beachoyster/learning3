@@ -3,7 +3,7 @@ import random
 print("i could have code like this")
 print("this will run")
 
-parents, babies = (1, 1)
+parents, babies = (50, 10)
 while babies < 100 and (parents + babies) > 0:
     birthrate = random.randint(0,3)
     eatrate = random.randint(0,5)
