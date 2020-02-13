@@ -16,12 +16,11 @@
 
 # uncomment the code below
 
-# from sys import argv
+#from sys import argv
 
-# script, user_name, first, second, third = argv
+#script, first, second, third = argv
 
 #print("The script is called:", script)
-#print("Your computer user name is:" user_name)
 #print("Your first variable is:", first)
 #print("Your second variable is:", second)
 #print("Your third variable is:", third)
