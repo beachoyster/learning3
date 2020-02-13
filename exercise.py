@@ -1,7 +1,5 @@
 import random
 
-#print("i could have code like this")
-#print("this will run")
 generations = 0
 parents, babies = (20, 10)
 while babies < 100 and (parents + babies) > 0:
@@ -23,3 +21,4 @@ else:
 
 print("{0} generations elapsed".format(generations))
 
+# 1) add a note like in line 7 above each line of code to describe what it is doing
