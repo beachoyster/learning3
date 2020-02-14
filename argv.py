@@ -6,7 +6,8 @@
 #from %s import x   where %s is whatever file you created
 #print x
 
-
+import variable
+print(variable.x)
 #When you installed python, you got all lot of python software other people
 #wrote
 #You can use this software by importinging it
@@ -16,15 +17,14 @@
 
 # uncomment the code below
 
-#from sys import argv
+from sys import argv
 
-#script, first, second, third = argv
+script, first, second, third = argv
 
-#print("The script is called:", script)
-#print("Your first variable is:", first)
-#print("Your second variable is:", second)
-#print("Your third variable is:", third)
-
+print("The script is called:", script)
+print("Your first variable is:", first)
+print("Your second variable is:", second)
+print("Your third variable is:", third)
 #when you run this program in terminal type python argv.py ian is awesome
 
 
