@@ -6,7 +6,8 @@
 #from %s import x   where %s is whatever file you created
 #print x
 
-import variable
+from Python_Hard_finished import variable
+
 print(variable.x)
 #When you installed python, you got all lot of python software other people
 #wrote
